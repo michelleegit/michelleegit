@@ -8,8 +8,7 @@
 
 ## 👩‍💻 About me
 
-I'm a Computer Science student at the Federal University of Ouro Preto (UFOP).
-I'm currently exploring different areas of technology and building projects to develop my skills.
+I am a Computer Science student at the Federal University of Ouro Preto (UFOP), Brazil. I am interested in software development, artificial intelligence, and computer networks. Currently, I am exploring different areas of technology through academic and personal projects, seeking to improve my skills and develop solutions to real-world problems.
 
 ## 🛠️ Technologies & Tools
 
