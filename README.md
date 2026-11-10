@@ -12,14 +12,12 @@ I am a Computer Science student at the Federal University of Ouro Preto (UFOP), 
 
 ## 🛠️ Technologies & Tools
 
-- C
-- C++
-- Python
-- HTML
-- CSS
-- PostgreSQL
-- Docker
-- SUMO
-- Git & GitHub
-- Linux
-- LaTeX
+- Linguagens: Python, C, C++ e SQL
+
+- Desenvolvimento Web: HTML, CSS, Django
+
+- Banco de dados: PostgreSQL
+
+- Ferramentas: Git, GitHub, Docker e Linux
+
+- Outras ferramentas: SUMO e LaTeX
